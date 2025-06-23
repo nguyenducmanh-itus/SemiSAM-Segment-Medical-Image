@@ -57,7 +57,8 @@ Sau khi huấn luyện các mô hình chuyên gia các các thông tin về mô 
 
 ## Trực quan hóa kết quả
 Để xem hình ảnh đầu vào và các dự đoán của mô hình so với dự đoán thật chạy lệnh :
-python inference.py 
-Trong file inference.py đưa đường dẫn file_path đến data của BraTS19 đúng với đường dẫn trên máy đã tải về
+python inference.py.
+
+Trong file inference.py đưa đường dẫn file_path đến data của BraTS19 đúng với đường dẫn trên máy đã tải về.
 # Ví dụ trực quan hóa ảnh đầu vào, kết quả phân đoạn và ground-truth của mô hình MT
 ![Mô tả hình ảnh (alt text)](MT_Model.png)
