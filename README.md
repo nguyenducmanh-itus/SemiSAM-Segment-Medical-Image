@@ -41,6 +41,7 @@ và tạo một thư mục tên ckpt cùng cấp với code_semisam+ và đổi 
 Triển khai các mô hình chuyên gia
 # Training
 cd code_semisam+
+
 python SemiSAM_train_MT_3D.py --prompt [unc/point/mask]
 
 python SemiSAM_train_UAMT_3D.py --prompt [unc/point/mask]
