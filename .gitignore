@@ -1,0 +1,19 @@
+# Ignore thư mục không cần push
+
+data/BraTS19/
+code/
+compare.py
+draw.py
+model/
+
+# Ignore file dữ liệu lớn và file tạm
+*.nii
+*.nii.gz
+*.pth
+*.pt
+*.log
+*.tmp
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
