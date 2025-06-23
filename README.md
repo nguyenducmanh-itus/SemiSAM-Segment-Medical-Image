@@ -42,7 +42,9 @@ Triển khai các mô hình chuyên gia
 # Training
 cd code_semisam+
 python SemiSAM_train_MT_3D.py --prompt [unc/point/mask]
+
 python SemiSAM_train_UAMT_3D.py --prompt [unc/point/mask]
+
 python SemiSAM_train_DAN_3D.py --prompt [unc/point/mask]
 # Testing
 python test_LA.py
