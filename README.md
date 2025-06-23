@@ -57,4 +57,4 @@ Sau khi huấn luyện các mô hình chuyên gia các các thông tin về mô 
 # show result
 python inference.py
 # Ví dụ trực quan hóa ảnh đầu vào, kết quả phân đoạn và ground-truth
-![Mô tả hình ảnh (alt text)](C:\Users\ADMIN\OneDrive - VNU-HCMUS\ChuyenNghanh_class\Seminar\ADIP\Result_Image\MT_Model.png)
+![Mô tả hình ảnh (alt text)](MT_Model.png)
